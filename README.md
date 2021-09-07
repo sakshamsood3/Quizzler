@@ -1,1 +1,1 @@
-This is a simple quiz app created using flutter and dart :)
+This is a simple quizzing app created using flutter and dart :)
